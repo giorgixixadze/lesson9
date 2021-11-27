@@ -1,0 +1,22 @@
+.headerimg{
+    max-width: 1366px;
+    width: 100%;
+    position: relative;
+}
+.header{
+    display: flex;
+    position: absolute;
+    margin: 0 auto;
+    max-width: 1090px;
+    width: 100%;
+}
+.text1{
+    position: absolute;
+}
+.home{
+    display: inline-block;
+
+}
+.about{
+    display: inline-block;
+}
