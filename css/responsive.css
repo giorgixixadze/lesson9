@@ -1,0 +1,47 @@
+@media screen and (max-width:1080px){
+    .box2{
+        flex-direction: column;
+        height: auto;
+        background-color: rgb(112, 112, 112);
+        padding: 0 10px;
+    }
+    .textebi{
+        margin: 20px 0;
+    }
+    .wrapper{
+        display: none;
+    }
+    .fa-bars{
+        display: block;
+        color: chartreuse;
+    }
+    .box nav{
+        padding: 20px 30px;
+    }
+   .text1{
+       margin-left: 50px;
+   }
+}
+@media screen and (max-width:580px){
+    .box2 .fotoebi .zeda{
+        flex-direction: column;
+        margin: 10px 0;
+    
+    }
+    .box2 .fotoebi .zeda img{
+        
+        margin: 10px 0;
+    }
+}
+@media screen and (max-width:1123px){
+    .box3{
+        height: auto;
+
+    }
+    .box3 .mother .mainblock{
+        justify-content: center;
+    }
+    .box3 .mother .box3text{
+        text-align: center;
+    }
+}
